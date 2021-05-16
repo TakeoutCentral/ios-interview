@@ -1,0 +1,6 @@
+framework module CFATheme {
+  umbrella header "CFATheme-umbrella.h"
+
+  export *
+  module * { export * }
+}

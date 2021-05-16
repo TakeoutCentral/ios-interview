@@ -1,0 +1,22 @@
+{
+  "name": "CFATheme",
+  "version": "1.1",
+  "summary": "Auto-switching theme manager based on Brad Mueller's excellent example",
+  "description": "Updated Brad Mueller's code to accept sunrise/sunset times and perform the calculation\nfor auto day/night mode using those times.",
+  "homepage": "https://github.com/mgray88/CFATheme",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Michael Gray": "email@address.com"
+  },
+  "platforms": {
+    "ios": "10.2"
+  },
+  "source": {
+    "git": "https://github.com/mgray88/CFATheme.git",
+    "tag": "1.1"
+  },
+  "source_files": "CFAThemeExample/Theme"
+}

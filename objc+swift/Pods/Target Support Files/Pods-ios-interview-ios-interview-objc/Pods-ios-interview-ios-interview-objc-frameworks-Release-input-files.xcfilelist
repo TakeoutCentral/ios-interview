@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-ios-interview-ios-interview-objc/Pods-ios-interview-ios-interview-objc-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CFATheme/CFATheme.framework
+${BUILT_PRODUCTS_DIR}/CocoaLumberjack/CocoaLumberjack.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Reusable/Reusable.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework

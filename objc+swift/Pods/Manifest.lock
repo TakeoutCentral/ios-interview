@@ -1,0 +1,60 @@
+PODS:
+  - CFATheme (1.1)
+  - CocoaLumberjack/Core (3.7.2)
+  - CocoaLumberjack/Swift (3.7.2):
+    - CocoaLumberjack/Core
+  - MBProgressHUD (1.2.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - CFATheme (from `https://github.com/mgray88/CFATheme.git`)
+  - CocoaLumberjack/Swift
+  - MBProgressHUD
+  - Reusable
+  - RxCocoa
+  - RxSwift
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - MBProgressHUD
+    - Reusable
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - TinyConstraints
+
+EXTERNAL SOURCES:
+  CFATheme:
+    :git: https://github.com/mgray88/CFATheme.git
+
+CHECKOUT OPTIONS:
+  CFATheme:
+    :commit: f9640c2f2f07ca91c82f55cbaf3d272ed8cffb33
+    :git: https://github.com/mgray88/CFATheme.git
+
+SPEC CHECKSUMS:
+  CFATheme: 28977f7a5a74716a341759e4d00674831fdc647b
+  CocoaLumberjack: b7e05132ff94f6ae4dfa9d5bce9141893a21d9da
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 7faf7528506d9d4928d24377cf5966945e0a401e
+
+COCOAPODS: 1.10.1
