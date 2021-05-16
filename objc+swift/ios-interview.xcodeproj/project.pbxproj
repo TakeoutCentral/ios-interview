@@ -102,7 +102,7 @@
 		27B17901265003B800740B42 /* RestaurantInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantInfo.swift; sourceTree = "<group>"; };
 		27B17904265003D400740B42 /* RestaurantStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantStatus.swift; sourceTree = "<group>"; };
 		27B179062650050B00740B42 /* QuickUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickUtils.swift; sourceTree = "<group>"; };
-		27B1790B26500A4C00740B42 /* OrderRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderRepository.swift; sourceTree = SOURCE_ROOT; };
+		27B1790B26500A4C00740B42 /* OrderRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = OrderRepository.swift; path = "ios-interview/Data/OrderRepository.swift"; sourceTree = SOURCE_ROOT; };
 		27B1790E2650161700740B42 /* UIView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
 		27B179112650182C00740B42 /* Fonts.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.generated.swift; sourceTree = "<group>"; };
 		27B179122650182C00740B42 /* DataStruct.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStruct.generated.swift; sourceTree = "<group>"; };
