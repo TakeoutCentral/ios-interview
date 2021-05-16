@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.2'
+
+target 'ios-interview-swift' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ios-interview-swift
+  pod 'CocoaLumberjack/Swift'
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'RxDataSources'
+  pod 'Reusable'
+  pod 'TinyConstraints'
+  pod 'CFATheme', :git => 'https://github.com/mgray88/CFATheme.git', :modular_headers => true
+  pod 'GenericJSON'
+
+end
+
+target 'FeatureFlags' do
+  use_frameworks!
+  pod 'GenericJSON'
+end

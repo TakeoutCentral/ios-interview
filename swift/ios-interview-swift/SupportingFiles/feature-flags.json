@@ -1,0 +1,15 @@
+[
+  {
+    "section": "UI Customization",
+    "features": [
+      {
+        "name": "cartChecklist",
+        "displayName": "Checklist Not Required",
+        "description": "Checklist on cart screen not required",
+        "type": "unlockFlag",
+        "enabled": true,
+        "unlocked": false
+      }
+    ]
+  }
+]
